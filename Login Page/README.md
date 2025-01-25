@@ -40,16 +40,13 @@ Follow these steps to get the project running on your local machine:
    cd Login Page
    ```
 
-3. Install dependencies:
+3. Navigate to this path
    ```bash
-   npm install
+   cd \src\login.html
    ```
-
-4. Run the project:
-   ```bash
-   npm run start
-   ```
-
+   
+4. Open the file **login.html** into your Browser using **Open with Live Server**
+      
 ### Customization
 
 You can customize the styles in `input.css` and regenerate the CSS using Tailwind CLI:
