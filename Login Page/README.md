@@ -37,7 +37,7 @@ Follow these steps to get the project running on your local machine:
 
 2. Navigate to the project directory:
    ```bash
-   cd login-page
+   cd Login Page
    ```
 
 3. Install dependencies:
